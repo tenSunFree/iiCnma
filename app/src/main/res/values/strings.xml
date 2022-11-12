@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IICnmaDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_search">Search</string>
+    <string name="title_movie_details">Details</string>
+    <string name="retry">Retry</string>
+    <string name="api_error_prefix">Error while reading data from api: </string>
+    <string name="overview">Overview</string>
+    <string name="search_hint">Begin searching</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="no_search_results">No results found.</string>
+    <string name="no_favorite_movies">You don\'t have any favorite movies.</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="general_network_error">Cannot connect to server</string>
+    <string name="unknown_error">Unknown error happened</string>
+    <string name="loading">Loading …</string>
+    <string name="no_popular_movies">There is no popular movies at this time</string>
+</resources>
